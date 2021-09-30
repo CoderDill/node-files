@@ -1,0 +1,19 @@
+{
+  "name": "node-files",
+  "version": "1.0.0",
+  "description": "Springboard node-files exercise",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrappyDill/node-files.git"
+  },
+  "author": "Matthew Dillon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrappyDill/node-files/issues"
+  },
+  "homepage": "https://github.com/CrappyDill/node-files#readme"
+}
